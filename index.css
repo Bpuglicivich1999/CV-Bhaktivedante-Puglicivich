@@ -28,6 +28,10 @@ header h1 {
 header p {
     margin: 5px 0 0;
 }
+header a {
+    color: white;
+    text-decoration: none;
+}
 
 section {
     margin-top: 20px;
